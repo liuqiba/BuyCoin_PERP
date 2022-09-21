@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "cuckoo-csharp": {
+      "commandName": "Project",
+      "commandLineArgs": "-i 10001 -c ./ftx_BuyCoin.json"
+    }
+  }
+}
